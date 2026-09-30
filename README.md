@@ -6,7 +6,7 @@ This notebook explores **contours and shape detection using OpenCV**. It uses si
 
 Contours are an important concept in Computer Vision because they help identify object boundaries and provide useful information about shapes.
 
-## Objective
+## Objective 
 
 The main objectives of this notebook are to:
 
